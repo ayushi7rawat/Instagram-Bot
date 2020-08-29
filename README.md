@@ -1,2 +1,2 @@
 # Instagram-Bot
-Ig bot repo
+A Instagram Bot developed in Python who likes posts with #python3 and #javascript hashtag
