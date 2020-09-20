@@ -36,7 +36,7 @@ with smart_run(session):
                                     min_followers=150,
                                     min_following=50)
 
-    #tags to get posts from and amout is the actions you want
+    #tags to get posts from and amount is the actions you want
     session.like_by_tags(['python3','javascript'], amount=300)
 
 session.end()
