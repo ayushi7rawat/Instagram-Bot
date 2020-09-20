@@ -3,7 +3,7 @@ A Instagram Bot developed in Python who likes posts with #python3 and #javascrip
 
 ---
 
-![alt text](https://github.com/ayushi7rawat/Instagram-Bot/blob/master/Cover.jpg)
+![alt text](https://github.com/ayushi7rawat/Instagram-Bot/blob/master/cover2.png)
 
 Do you use Instagram?
 Do you want to know how to build an Instagram Bot?
@@ -46,7 +46,7 @@ You can find the code in instagrambot.py
 
 Explanation Walkthrough:
 ==========================
-If you wish to understand the complete walkthrough,step by step, you should visit my [Blog](https://dev.to/ayushi7rawat/how-to-make-an-instagram-bot-with-python-1ggb)
+If you wish to understand the complete walkthrough,step by step, you should visit my [Blog](https://ayushirawat.com/how-to-make-an-instagram-bot-with-python)
 
 LICENSE:
 ==========================
@@ -56,11 +56,11 @@ Instagram-Bot Repository is licensed under the MIT License
 
 My Digital Garden:
 ==========================
-I write regular blog posts which you will find on [dev.to](https://dev.to/ayushi7rawat).
-- [Twitter Bot](https://dev.to/ayushi_rawat_/how-to-make-a-twitter-bot-with-python-3jg9)
-- [Instagram Bot](https://dev.to/ayushi_rawat_/how-to-make-an-instagram-bot-with-python-1ggb)
-- [Add me to search](https://dev.to/ayushi_rawat_/add-me-to-search-in-3-simple-steps-27jg)
-- [GitHub Profile README](https://dev.to/ayushi_rawat_/create-a-github-profile-readme-in-3-simple-steps-3ofj)
+You can find my blogs at my [Website](https://ayushirawat.com).
+- [GitHub CLI 1.0: All you need to know](https://ayushirawat.com/github-cli-10-all-you-need-to-know)
+- [Python 3.9: All You need to know](https://ayushirawat.com/python-39-all-you-need-to-know)
+- [Web Scraping Coronavirus Data into MS Excel](https://ayushirawat.com/web-scraping-coronavirus-data-into-ms-excel)
+- [How to make your own Google Chrome Extension](https://ayushirawat.com/how-to-make-your-own-google-chrome-extension-1)
 
  
  You can also connect with me on 
